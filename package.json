@@ -1,0 +1,19 @@
+{
+  "name": "unit-testing",
+  "version": "1.0.0",
+  "description": "unit testing with jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PapierKorb76/unit-testing.git"
+  },
+  "author": "papiekorb76",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PapierKorb76/unit-testing/issues"
+  },
+  "homepage": "https://github.com/PapierKorb76/unit-testing#readme"
+}
